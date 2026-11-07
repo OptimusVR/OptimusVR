@@ -1,4 +1,8 @@
-## Hi there 👋
+# Welcome to my profile.
+
+## About Me
+
+Hi, I am currently a student and I spend some of my free time as a Gunpla Hobbyist.
 
 <!--
 **OptimusVR/OptimusVR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
